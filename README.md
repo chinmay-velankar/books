@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>WELCOME TO EASYBOOKS</h1><br>
-    <p><h4>Here you will find all mathematics , science <br> books of standard 6th to standard 10th</p> <br></h4>
+    <h4>Here you will find all mathematics , science <br> books of standard 6th to standard 10th <br></h4>
     <ul>
     <li>  <h3>FOR ICSE BOOKS of std 6th to 10th ,<a href="https://drive.google.com/folderview?id=0B5FXXXMqC7e9flhSSGZxQlpyXzdjd0VRTjVCNmNDVTFjTGJVQUNVbWE5REdqa25wQXZzMDQ">CLICK HERE</a> </h3> <br></li>
       <hr>
@@ -36,5 +36,4 @@
     <h4>THANK YOU FOR VISITING MY WEBSITE</h4>
       <hr>
 </form>
-  </body>
-</html>
+  
